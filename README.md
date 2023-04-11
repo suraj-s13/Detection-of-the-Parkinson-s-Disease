@@ -13,7 +13,7 @@ This project aims to make use of **Machine Learning** techniques to detect insta
 5️⃣ Machine Learning Models Training & Evaluation
 
 ## Prerequisites:
-I would highly recommend that before the hack night you have some kind of toolchain and development environment already installed and ready. If you have no idea where to start with this, try a combination like: <br>
+I would highly recommend that before the hack night, you should have some kind of toolchain and development environment already installed and ready. If you have no idea where to start with this, try a combination like: <br>
 
 
 1️⃣ `Python`<br>
