@@ -1,4 +1,4 @@
-# CodeClause_Detection-of-the-Parkinson-s-Disease
+# Detection-of-the-Parkinson-s-Disease
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
 
