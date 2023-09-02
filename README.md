@@ -11,7 +11,6 @@ This project aims to make use of **Machine Learning** techniques to detect insta
 3️⃣ Exploratory Data Analysis <br>
 4️⃣ Dataset Balancing & Scaling <br>
 5️⃣ Machine Learning Models Training & Evaluation
-5️⃣
 
 ## Prerequisites:
 I would highly recommend that before the hack night, you should have some kind of toolchain and development environment already installed and ready. If you have no idea where to start with this, try a combination like: <br>
@@ -23,10 +22,7 @@ I would highly recommend that before the hack night, you should have some kind o
 4️⃣ `NumPy`<br>
 5️⃣ `Swaborn`<br>
 6️⃣ An environment to work in - something like `Jupyter` or `colab`<br>
-7️⃣
-8️⃣
-9️⃣
-🔟
+
 
 For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
 
